@@ -1,5 +1,5 @@
 # Presentation
-<img src="/assets/cartoon.png" width="200">
+<img src="/cartoon.png" width="200">
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thibateau&theme=radical&hide_langs_below=8)
