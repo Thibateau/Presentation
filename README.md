@@ -7,7 +7,7 @@ I'm a front end web developer
 * 🌍  I'm based in Le Havre, Lille
 * 🖥️  See my portfolio at [TBoot](http://tboot.fr)
 * ✉️  You can contact me at [t.boot.dev@gmail.com](mailto:t.boot.dev@gmail.com)
-* 🧠  I'm learning Nuxt js with Vue JS
+* 🧠  I'm learning Nuxt js / Vue JS
 * 🤝  I'm open to collaborating on Front end projects
 * ⚡  I love riding ,longboard ,bikes ,snowboard , surf ...
 
